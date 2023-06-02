@@ -1,5 +1,7 @@
 ﻿# Daily-UI-003
  
+ Live site: https://osmanmahad.github.io/Daily-UI-003/
+ 
 Task: Landing Page
 
 What's the main focus? Is it for a book, an album, a mobile app, a product? Consider important landing page elements (call-to-actions, clarity, etc.)
